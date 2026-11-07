@@ -1,0 +1,321 @@
+{
+  "scope": "Closed mesh, connected components and nominal envelope intersections. NOT physical fit, optics, wiring, strength or slicer validation.",
+  "meshes": [
+    {
+      "file": "01-coffrage-PLA.stl",
+      "triangles": 22556,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          -0.2,
+          86.5
+        ],
+        [
+          0.0,
+          171.5
+        ],
+        [
+          0.0,
+          22.0
+        ]
+      ],
+      "volume_cm3": 34.703,
+      "passed": true
+    },
+    {
+      "file": "02-attaches-rapides-TPU.stl",
+      "triangles": 2808,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 2,
+      "bounds": [
+        [
+          20.0,
+          70.0
+        ],
+        [
+          2.0,
+          18.0
+        ],
+        [
+          0.0,
+          8.6
+        ]
+      ],
+      "volume_cm3": 1.067,
+      "passed": true
+    },
+    {
+      "file": "03-brides-PMW-PLA.stl",
+      "triangles": 2128,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 4,
+      "bounds": [
+        [
+          2.0,
+          44.0
+        ],
+        [
+          2.1,
+          9.5
+        ],
+        [
+          0.0,
+          1.6
+        ]
+      ],
+      "volume_cm3": 0.23,
+      "passed": true
+    },
+    {
+      "file": "04-pont-optique-optionnel-PLA.stl",
+      "triangles": 1608,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          76.4
+        ],
+        [
+          0.0,
+          16.0
+        ],
+        [
+          0.0,
+          1.6
+        ]
+      ],
+      "volume_cm3": 0.824,
+      "passed": true
+    },
+    {
+      "file": "05-logement-lentille-CAX100-PLA.stl",
+      "triangles": 2088,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          14.0
+        ],
+        [
+          0.0,
+          18.0
+        ],
+        [
+          0.0,
+          3.64
+        ]
+      ],
+      "volume_cm3": 0.451,
+      "passed": true
+    },
+    {
+      "file": "06-retenue-lentille-TPU.stl",
+      "triangles": 1048,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          11.6
+        ],
+        [
+          0.0,
+          8.0
+        ],
+        [
+          0.0,
+          0.8
+        ]
+      ],
+      "volume_cm3": 0.052,
+      "passed": true
+    },
+    {
+      "file": "07-patins-TPU.stl",
+      "triangles": 1620,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 3,
+      "bounds": [
+        [
+          0.5,
+          31.5
+        ],
+        [
+          0.75,
+          5.25
+        ],
+        [
+          0.0,
+          1.85
+        ]
+      ],
+      "volume_cm3": 0.131,
+      "passed": true
+    },
+    {
+      "file": "08-sieges-lentilles-PMW-PLA.stl",
+      "triangles": 3096,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 2,
+      "bounds": [
+        [
+          1.0,
+          61.0
+        ],
+        [
+          1.0,
+          29.0
+        ],
+        [
+          0.0,
+          2.2
+        ]
+      ],
+      "volume_cm3": 1.707,
+      "passed": true
+    },
+    {
+      "file": "09-rondelles-M2-TPU-04-08-12.stl",
+      "triangles": 6144,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 12,
+      "bounds": [
+        [
+          1.0,
+          34.0
+        ],
+        [
+          1.0,
+          25.0
+        ],
+        [
+          0.0,
+          1.2
+        ]
+      ],
+      "volume_cm3": 0.231,
+      "passed": true
+    },
+    {
+      "file": "TEST-01-fixation-A13.stl",
+      "triangles": 2860,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          -0.2,
+          86.5
+        ],
+        [
+          0.0,
+          21.0
+        ],
+        [
+          0.0,
+          10.9
+        ]
+      ],
+      "volume_cm3": 4.065,
+      "passed": true
+    },
+    {
+      "file": "TEST-02-module-PMW.stl",
+      "triangles": 3712,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          44.0
+        ],
+        [
+          0.0,
+          48.0
+        ],
+        [
+          0.0,
+          6.6
+        ]
+      ],
+      "volume_cm3": 2.795,
+      "passed": true
+    },
+    {
+      "file": "TEST-03-baie-LilyGO.stl",
+      "triangles": 2322,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          47.0
+        ],
+        [
+          0.0,
+          43.0
+        ],
+        [
+          0.0,
+          6.3
+        ]
+      ],
+      "volume_cm3": 3.273,
+      "passed": true
+    },
+    {
+      "file": "TEST-04-retenues-hautes-A13.stl",
+      "triangles": 1720,
+      "bad_edges": 0,
+      "degenerate": 0,
+      "components": 1,
+      "bounds": [
+        [
+          0.0,
+          86.7
+        ],
+        [
+          0.0,
+          20.0
+        ],
+        [
+          0.0,
+          22.0
+        ]
+      ],
+      "volume_cm3": 4.927,
+      "passed": true
+    }
+  ],
+  "intersections": [
+    {
+      "test": "collision_phone",
+      "empty_intersection": true,
+      "exit_code": 1
+    },
+    {
+      "test": "collision_components",
+      "empty_intersection": true,
+      "exit_code": 1
+    },
+    {
+      "test": "collision_optics",
+      "empty_intersection": true,
+      "exit_code": 1
+    }
+  ]
+}

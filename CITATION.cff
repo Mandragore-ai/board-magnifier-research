@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it."
+title: "Magnifieur de plateau — Mandragore.ai"
+authors:
+  - name: "Mandragore.ai / 500 Nuances de Geek"
+url: "https://github.com/Mandragore-ai/board-magnifier-research"
+license: "CC-BY-NC-4.0"

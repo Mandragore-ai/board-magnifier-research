@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-label="Magnifieur de plateau : téléphone mobile et figurines">
+  <rect width="800" height="220" rx="26" fill="#15252f"/>
+  <rect x="26" y="26" width="204" height="168" rx="24" fill="#4b8d9d"/>
+  <path d="M49 164h156M49 136h156M49 108h156M49 80h156M78 49v125M108 49v125M138 49v125M168 49v125" fill="none" stroke="#b5d7cf" stroke-width="2" opacity=".65"/>
+  <g transform="rotate(-11 127 110)">
+    <rect x="85" y="59" width="85" height="111" rx="10" fill="#15252f" stroke="#fff" stroke-width="4"/>
+    <rect x="92" y="69" width="71" height="87" rx="3" fill="#e4eee9"/>
+    <circle cx="110" cy="98" r="8" fill="#d35f69"/><circle cx="140" cy="121" r="8" fill="#d35f69"/>
+    <path d="M110 98l30 23" stroke="#d35f69" stroke-width="3" stroke-dasharray="4 4"/>
+    <circle cx="127" cy="162" r="2.5" fill="#fff"/>
+  </g>
+  <path d="M57 66c14-13 29-17 44-13M55 66l14-2-8-12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="260" y="103" fill="white" font-family="Arial,sans-serif" font-weight="700" font-size="46">Magnifieur de plateau</text>
+  <text x="261" y="153" fill="#a6c6ce" font-family="Arial,sans-serif" font-size="28">Mandragore.ai · téléphone mobile · jeu physique</text>
+</svg>
