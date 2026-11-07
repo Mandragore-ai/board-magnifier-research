@@ -8,9 +8,9 @@
 
 Sur un plateau physique dégagé, comme celui de *Horizon Forbidden West: The Board Game* (HF4A), un téléphone glisse à la surface et devient une fenêtre mobile sur le jeu. Le joueur peut poser des figurines sur l'écran du téléphone. Si la position et l'orientation du téléphone sont connues, et si les contacts des figurines sont détectés, l'application peut reporter leur position dans les coordonnées du plateau.
 
-Au lieu de remplacer le plateau, le téléphone peut afficher **sur le lieu où il se trouve** une animation, une zone de déplacement, des informations sur une case, un combat ou une aide de règles. Le même principe peut servir à explorer une carte imprimée, inspecter une zone ou faire apparaître une couche de jeu contextuelle. Les figurines doivent tenir sur la surface utile de l'écran ; le suivi des pièces restées ailleurs sur le plateau demande un autre dispositif.
+Au lieu de remplacer le plateau, le téléphone peut afficher **sur le lieu où il se trouve** une animation, une zone de déplacement, des informations sur une case, un combat ou une aide de règles. Le même principe peut servir à explorer une carte imprimée, inspecter une zone ou faire apparaître une couche de jeu contextuelle. Les figurines doivent tenir sur la surface utile de l'écran (voir sociales capacitifs)
 
-Ce dépôt documente le **concept, les essais déjà réalisés et un prototype mécanique en cours**. Il ne revendique pas encore une précision en millimètres ni un suivi fiable sur un plateau complet.
+Ce dépôt documente le **concept, les essais déjà réalisés et un prototype mécanique en cours**. 
 
 ## Principe retenu pour le prototype
 
