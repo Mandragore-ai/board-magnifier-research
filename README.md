@@ -6,11 +6,16 @@
 
 ## Cas d'usage
 
-Sur un plateau physique dégagé, comme celui de *Horizon Forbidden West: The Board Game* (HF4A), un téléphone glisse à la surface et devient une fenêtre mobile sur le jeu. Le joueur peut poser des figurines sur l'écran du téléphone. Si la position et l'orientation du téléphone sont connues, et si les contacts des figurines sont détectés, l'application peut reporter leur position dans les coordonnées du plateau.
+Sur un plateau physique dégagé, comme celui de HF4A, un téléphone glisse à la surface et devient une fenêtre mobile sur le jeu. Le joueur peut poser des figurines sur l'écran du téléphone. Si la position et l'orientation du téléphone sont connues, et si les contacts des figurines sont détectés, l'application peut reporter leur position dans les coordonnées du plateau.
 
-Au lieu de remplacer le plateau, le téléphone peut afficher **sur le lieu où il se trouve** une animation, une zone de déplacement, des informations sur une case, un combat ou une aide de règles. Le même principe peut servir à explorer une carte imprimée, inspecter une zone ou faire apparaître une couche de jeu contextuelle. Les figurines doivent tenir sur la surface utile de l'écran (voir sociales capacitifs)
+Au lieu de remplacer le plateau, le téléphone peut afficher **sur le lieu où il se trouve** une animation, une zone de déplacement, des informations sur une case, un combat ou une aide de règles. Le même principe peut servir à explorer une carte imprimée, inspecter une zone ou faire apparaître une couche de jeu contextuelle. Les figurines doivent tenir sur la surface utile de l'écran (voir sociales capacitifs).
+
+C'est une solution hybride d'interaction.
 
 Ce dépôt documente le **concept, les essais déjà réalisés et un prototype mécanique en cours**. 
+
+Le principe: 2 pointeurs type pointeurs de souris permettent de suivre la position, et la camera permet de (re)calibrer la localisation. L'ensemble se loge sous le téléphone.
+A noter que des technologies à base de fiducials imprimés sur les plateaux existent, qui permettent de n'utiliser que la camera, mais n'ont pas été validées par les tests pour cet usage.
 
 ## Principe retenu pour le prototype
 
